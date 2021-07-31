@@ -1,0 +1,29 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "Name generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonyssantos/name-generator-package.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "package"
+  ],
+  "author": "Adonys Santos <adonyssantosjimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adonyssantos/name-generator-package/issues"
+  },
+  "homepage": "https://github.com/adonyssantos/name-generator-package#readme",
+  "bin": {
+    "random-name": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
