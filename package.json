@@ -1,7 +1,7 @@
 {
-  "name": "name-generator",
+  "name": "adonys-name-generator",
   "version": "1.0.0",
-  "description": "Name generator",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
